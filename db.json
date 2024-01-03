@@ -1,9 +1,11 @@
 {
-  "resultCode" : "OK"
-  "resultMessage" : "Test"
-  "serverVersion" : "1.0.1"
-  "serverMessage" : "테스트"
-  "marketUrl" : "https://"
-  "updateAction" : "GO"
-  "systemFlag" : "Y"
+  "appVersion": {
+      "resultCode" : "OK",
+    "resultMessage" : "Test",
+    "serverVersion" : "1.0.1",
+    "serverMessage" : "테스트",
+    "marketUrl" : "https://",
+    "updateAction" : "GO",
+    "systemFlag" : "Y"
+  }
 }
