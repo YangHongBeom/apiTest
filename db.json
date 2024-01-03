@@ -1,6 +1,6 @@
 {
   "appVersion": {
-      "resultCode" : "OK",
+    "resultCode" : "200",
     "resultMessage" : "Test",
     "serverVersion" : "1.0.1",
     "serverMessage" : "테스트",
